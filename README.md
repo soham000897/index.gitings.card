@@ -1,2 +1,2 @@
 # index.gitings.card
-a card for gift anyone
+a card for gift someone
